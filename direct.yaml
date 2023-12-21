@@ -1,3 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,hdec.com
+  - DOMAIN-SUFFIX,iceg.ddns.net
+  - DOMAIN-SUFFIX,tailscale.com
+  - DOMAIN-SUFFIX,okpt.net
+  # - DOMAIN-SUFFIX,tailscale.io
   # - IP-CIDR,172.23.6.88/32
