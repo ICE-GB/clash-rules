@@ -9,3 +9,17 @@ payload:
   - IP-CIDR,192.168.5.54/26
   - IP-CIDR,192.168.5.128/25
   - IP-CIDR,240e:390:e53:4cc0::1/64
+  - DOMAIN-SUFFIX,tagsssubscribe.com,no-resolve
+  - DOMAIN-SUFFIX,mb3admin.com,no-resolve
+  - DOMAIN-SUFFIX,iceg.ddns.net,no-resolve
+  - DOMAIN-SUFFIX,iceg.iceg,no-resolve
+  # 不想在院内访问的域名
+  - DOMAIN-SUFFIX,okpt.net,no-resolve
+  # 院内无法访问的域名
+  - DOMAIN-SUFFIX,bilibili.com,no-resolve
+  - DOMAIN-SUFFIX,hdslb.com,no-resolve
+  - DOMAIN-SUFFIX,bilivideo.com,no-resolve
+  - DOMAIN-SUFFIX,bilivideo.cn,no-resolve
+  - DOMAIN-SUFFIX,biliapi.net,no-resolve
+  - DOMAIN-SUFFIX,163.com,no-resolve
+  - DOMAIN-SUFFIX,126.net,no-resolve

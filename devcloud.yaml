@@ -1,3 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,nexus.simulate.com
+  # - DOMAIN-SUFFIX,nexus.simulate.com
+  - DOMAIN,code.hdec.com,no-resolve
   # - IP-CIDR,172.17.178.23/1

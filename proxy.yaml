@@ -1,3 +1,5 @@
 payload:
   - DOMAIN,openwrt.org
   - DOMAIN-SUFFIX,mooai.top
+  - DOMAIN-SUFFIX,translate.googleapis.com,no-resolve
+  - DOMAIN,steamcommunity.com,no-resolve

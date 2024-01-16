@@ -1,2 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,hdec.com
+  - DOMAIN-SUFFIX,simulate.com
+  - DOMAIN,n200758.awnlzw.com,no-resolve
